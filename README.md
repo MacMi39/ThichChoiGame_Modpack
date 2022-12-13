@@ -23,5 +23,5 @@ Then run these commands:
 
 
 # Change log
-v0.1.0
- - combined all the modpack that work in Mistland update.
+v0.1.1
+ - fix a lot.

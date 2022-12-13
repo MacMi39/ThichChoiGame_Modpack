@@ -2,8 +2,8 @@
 # Servers are automatically sorted alphabetically when shown in the list.
 # This file live updates the in-game listing. Feel free to change it while in the main menu.
 
-TCG:
-  address: ---.---.--.--
-  port: -----
-  password: -----
+Bjornheim:
+  address: 209.126.12.39
+  port: 29800
+  password: turtle
 
