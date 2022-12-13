@@ -1,6 +1,6 @@
 {
     "name": "TCG_Modpack",
-    "version_number": "0.1.0",
+    "version_number": "0.1.1",
     "website_url": "https://github.com/MacMi39/ThichChoiGame_Modpack",
     "description": "Modpack require for ThichChoiGame server",
     "dependencies": [
