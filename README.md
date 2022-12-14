@@ -1,5 +1,5 @@
 # Description
-Modpack được tạo bởi đội ngũ modder thuộc server Thích Chơi Game, thuộc bản quyền của Thích chơi game server.
+Modpack được tạo cho server Thích Chơi Game.
 
 # Installation
 Mod Manager (Preferred)
@@ -18,10 +18,10 @@ Then run these commands:
 - `upgrade EVA`
 - `start`
 # Known issues
- - None.
+ - epicloot incompatible with Vitality 1.0.2, Jewelcrafting 1.3.8, OdinPlusQOL 0.9.6.
 
 
 
 # Change log
-v0.1.1
- - fix a lot.
+v0.1.2
+ - add, remove, FIX a lot of things, might run, `still` good.
